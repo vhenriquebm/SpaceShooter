@@ -119,6 +119,7 @@
 -define:ENABLE_TERRAIN
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
+-define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
@@ -352,6 +353,8 @@
 -r:"Library/Bee/artifacts/900b0aE.dag/Unity.Burst.Editor.ref.dll"
 -r:"Library/Bee/artifacts/900b0aE.dag/Unity.Burst.ref.dll"
 -r:"Library/Bee/artifacts/900b0aE.dag/Unity.Collections.ref.dll"
+-r:"Library/Bee/artifacts/900b0aE.dag/Unity.InputSystem.ForUI.ref.dll"
+-r:"Library/Bee/artifacts/900b0aE.dag/Unity.InputSystem.ref.dll"
 -r:"Library/Bee/artifacts/900b0aE.dag/Unity.InternalAPIEditorBridge.001.ref.dll"
 -r:"Library/Bee/artifacts/900b0aE.dag/Unity.InternalAPIEngineBridge.001.ref.dll"
 -r:"Library/Bee/artifacts/900b0aE.dag/Unity.Mathematics.Editor.ref.dll"
@@ -376,6 +379,7 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Parallax.cs"
+"Assets/Scripts/PlayerControls.cs"
 -langversion:9.0
 /deterministic
 /optimize+

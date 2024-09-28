@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Parallax.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerControls.cs">
     <Files>
       <File FileName="Assets/Scripts/Parallax.cs" Line="13" Column="6" />
+      <File FileName="Assets/Scripts/PlayerControls.cs" Line="42" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,16 +16,11 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Unity" expanded="True" selected="True" />
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="03316f4e-ff6b-4608-9250-fbf3622463c3" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e4e33977-f565-4509-a77e-a760ffcaa701" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
