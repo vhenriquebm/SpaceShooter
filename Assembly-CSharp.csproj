@@ -60,7 +60,9 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/Enemy/Meteor.cs" />
     <Compile Include="Assets/Scripts/Parallax.cs" />
+    <Compile Include="Assets/Scripts/Enemy/Enemy.cs" />
     <Compile Include="Assets/Scripts/PlayerControls.cs" />
   </ItemGroup>
   <ItemGroup>
