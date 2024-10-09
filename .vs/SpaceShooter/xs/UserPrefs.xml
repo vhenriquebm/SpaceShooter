@@ -8,11 +8,9 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SpaceShooter" expanded="True">
-            <Node name="Assets" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
               <Node name="Scripts" expanded="True">
-                <Node name="Enemy" expanded="True">
-                  <Node name="Meteor.cs" selected="True" />
-                </Node>
+                <Node name="Enemy" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -22,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="69c0af71-4cbd-4c15-9066-4d04dce9d4cb" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8dfd214e-ca5c-4fca-a794-3a212e1ea7df" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
