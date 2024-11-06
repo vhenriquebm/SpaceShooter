@@ -382,6 +382,7 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.29f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Enemy/Enemy.cs"
 "Assets/Scripts/Enemy/Meteor.cs"
+"Assets/Scripts/Enemy/MeteorSpawner.cs"
 "Assets/Scripts/Parallax.cs"
 "Assets/Scripts/PlayerControls.cs"
 -langversion:9.0

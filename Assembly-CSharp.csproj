@@ -64,6 +64,7 @@
     <Compile Include="Assets/Scripts/Parallax.cs" />
     <Compile Include="Assets/Scripts/Enemy/Enemy.cs" />
     <Compile Include="Assets/Scripts/PlayerControls.cs" />
+    <Compile Include="Assets/Scripts/Enemy/MeteorSpawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

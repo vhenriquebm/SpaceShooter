@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 9184767533501556977}
   - component: {fileID: 990940818485750461}
   - component: {fileID: 6823829352330135203}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Meteor3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -165,3 +165,4 @@ MonoBehaviour:
   rb: {fileID: 9184767533501556977}
   minSpeed: 8
   maxSpeed: 15
+  rotateSpeed: 100
