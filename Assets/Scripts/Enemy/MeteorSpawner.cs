@@ -48,6 +48,6 @@ public class MeteorSpawner : MonoBehaviour
 
     private void OnBecameInvisible()
     {
-        //Destroy(gameObject);
+        Destroy(gameObject);
     }
 }
