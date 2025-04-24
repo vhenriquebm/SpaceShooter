@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class MeteorSpawner : MonoBehaviour
 {
     [SerializeField] private GameObject[] meteor;
     [SerializeField] private float spawnTime;
@@ -48,6 +48,6 @@ public class NewBehaviourScript : MonoBehaviour
 
     private void OnBecameInvisible()
     {
-        Destroy(gameObject);
+        //Destroy(gameObject);
     }
 }

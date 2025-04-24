@@ -7,7 +7,7 @@ using TouchPhase = UnityEngine.InputSystem.TouchPhase;
 
 public class PlayerControls : MonoBehaviour
 {
-    private Camera camera;
+    private new Camera camera;
     private Vector3 offset;
 
     private float maxLeft;

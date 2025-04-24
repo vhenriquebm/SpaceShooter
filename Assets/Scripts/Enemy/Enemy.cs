@@ -21,9 +21,10 @@ public class Enemy : MonoBehaviour
 
     public void TakeDamege(float dmg)
     {
+        health -= dmg;
         HurtSequence();
 
-        if (health <= 0)
+        if (health < 0)
         {
             DeathSequence();
         }
